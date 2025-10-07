@@ -50,11 +50,11 @@ Added in the commit list
 
 
 
-### 3. Design Analysis and Evaluation
+### Design Analysis and Evaluation
 
 Several novel features were added to enhance the system. It enables mobile real-time monitoring of patient vitals, sends automatic SOS alerts to doctors when thresholds are exceeded, operates without an external Wi-Fi module, and uses an LED-buzzer for instant environmental alerts.
 
-### 4. Future Work
+### Future Work
 
 The future works and prospects of the IoT-based health monitoring system project are promising, with potential avenues for further development and expansion. Some key areas for future exploration include:
 1.	Enhanced Sensor Integration:
