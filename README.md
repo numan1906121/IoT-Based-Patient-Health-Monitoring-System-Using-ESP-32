@@ -5,12 +5,12 @@ This IoT-based real-time patient monitoring system measures temperature, pressur
 
 ## 📋 Table of Contents
 - [Introduction](#Introduction)
-- [Key Features](#Key Features)
-- [Hardware Requirements with Cost Analysis](#Hardware Requirements with Cost Analysis)
-- [Full Source Code of Firmware](#Full Source Code of Firmware)
-- [Implementation and Result](#Implementation and Result)
-- [Design Analysis and Evaluation](#Design Analysis and Evaluation)
-- [Future Work](#Future Work)
+- [Key Features](#features)
+- [Hardware Requirements with Cost Analysis](#Hardware_Requirements_with_Cost_Analysis)
+- [Full Source Code of Firmware](#Full_Source_Code_of_Firmware)
+- [Implementation and Result](#Implementation_and_Result)
+- [Design Analysis and Evaluation](#Design_Analysis_and_Evaluation)
+- [Future Work](#Future_Work)
 
 
 ##  Introduction
